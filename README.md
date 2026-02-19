@@ -1,6 +1,6 @@
 # School Management System (OOP Project)
 
-## 📌 Project Description
+## Project Description
 This project models a basic school system using Object-Oriented Programming (OOP) principles.
 
 The system includes:
@@ -19,7 +19,7 @@ Students can take courses.
 
 ---
 
-## 🏗️ OOP Concepts Used
+##  OOP Concepts Used
 
 - Encapsulation (private fields with getters/setters)
 - Inheritance (Principal, Teacher, NonAcademicStaff extend Staff, while Student,Applicants extend Learner)
@@ -30,7 +30,7 @@ Students can take courses.
 
 ---
 
-## 🧩 Class Structure
+##  Class Structure
 
 - ClassRoom
 - Staff (abstract)
@@ -44,7 +44,7 @@ Students can take courses.
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 
 1. A Classroom is created.
 2. Staff and Courses are added.
@@ -56,7 +56,7 @@ Students can take courses.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Java
 - Object-Oriented Programming Principles
@@ -65,4 +65,5 @@ Students can take courses.
 ---
 
 ## 👨‍💻 Author
-Your Name
+Oladis Gold
+
